@@ -4,10 +4,10 @@ const path = require('path');
 
 const app = express();
 
-// Connect Database
+
 connectDB();
 
-// Init Middleware
+//Middleware
 app.use(express.json({ extended: false }));
 
 // Define Routes

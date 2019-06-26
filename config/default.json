@@ -1,6 +1,6 @@
 {
-  "mongoURI": "",
-  "jwtSecret": "secret",
-  "githubClientId": "",
-  "githubSecret": ""
+	"mongoURI": "mongodb+srv://ohylton:Acheampong14!@devconnector-ohrem.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "secret",
+	"githubClientId": "",
+	"githubSecret": ""
 }
