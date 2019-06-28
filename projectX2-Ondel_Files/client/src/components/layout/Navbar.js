@@ -42,11 +42,13 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
     </ul>
   );
 
+
+  
   return (
     <nav className='navbar bg-dark'>
       <h1>
         <Link to='/'>
-          <i className='fas fa-code' /> DevConnector
+        <img src={require('./foglio.png')} alt="fireSpot"/>
         </Link>
       </h1>
       {!loading && (
