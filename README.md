@@ -1,2 +1,1 @@
-# projectX2
-Virtual PR Showroom
+# Foglio Mern Project
